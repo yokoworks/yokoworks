@@ -69,7 +69,7 @@ I see accessibility not just as a checklist, but as a way to sharpen engineering
   Featured in **Bootcamp (UX Collective)**, a curated UX publication reaching 3M+ monthly readers.
 
 - [The UX Lesson I Learned in a Quiet Tokyo Salon ↗](https://medium.com/@yokoworks.dev/the-ux-lesson-i-learned-in-a-quiet-tokyo-salon-1fa61e7e15b7)  
-  Also featured in *Bootcamp*, and later selected for **Boost**, Medium’s editorial recommendation program.
+  Also featured in **Bootcamp (UX Collective)**, and later selected for **Boost**, Medium’s editorial recommendation program.
 
 
 🧠 Recently, I’ve been working on:
