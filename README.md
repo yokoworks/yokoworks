@@ -60,10 +60,17 @@ I focus on clarifying requirements, sharing ideas early, and delivering code tha
 🔍 I’m currently deepening my accessibility practice — learning to design and build with inclusion from the start.  
 I see accessibility not just as a checklist, but as a way to sharpen engineering, UX, and real-world care.
 
-📖 I also write about what I learn:  
-[How Accessibility Became a New Lens in My Work ↗](https://medium.com/@yokoworks.dev/how-accessibility-became-a-new-lens-in-my-work-and-why-im-learning-to-see-more-clearly-5f7e2a6d5cc5)
+📖 I also write about what I learn — mostly on accessibility, UX, and designing with care:
 
-✨ One of my recent articles — [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b) — was featured in [Bootcamp (UX Collective)](https://bootcamp.uxdesign.cc), a curated UX publication reaching 3M+ monthly readers.
+- [What Building My First A11y-Focused App Taught Me ↗](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-183fbf1c3ea9)  
+  Featured in **JavaScript in Plain English**, a major publication for frontend developers and JavaScript practitioners.
+
+- [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b)  
+  Featured in **Bootcamp (UX Collective)**, a curated UX publication reaching 3M+ monthly readers.
+
+- [The UX Lesson I Learned in a Quiet Tokyo Salon ↗](https://medium.com/@yokoworks.dev/the-ux-lesson-i-learned-in-a-quiet-tokyo-salon-1fa61e7e15b7)  
+  Also featured in *Bootcamp*, and later selected for **Boost**, Medium’s editorial recommendation program.
+
 
 🧠 Recently, I’ve been working on:
 
