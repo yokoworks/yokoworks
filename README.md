@@ -1,14 +1,16 @@
-# Hi, I'm Yoko — a Frontend Developer Bridging Design Logic and Data Flow 👋
+# Hi, I'm Yoko — a Full-Stack Engineer (Frontend-focused) Bridging UX, Logic, and Data Flow 👋
 
 🚀 I work with async-friendly, trust-based teams around the world — remote, hybrid, or on-site.  
-I focus on delivering accessible, maintainable, and intuitive interfaces — translating UX thinking into aligned frontend–backend flows.  
-My work often involves defining API contracts from frontend needs, aligning logic with data shape, and reducing ambiguity between designers and backend engineers.
+I specialize in React, Next.js, and TypeScript, building accessible, maintainable, and intuitive products across frontend implementation, UX thinking, API integration, and data flow design.
+
+I often work at the intersection of UI, product logic, and backend collaboration — shaping frontend architecture, clarifying requirements, aligning data structures with user flows, and reducing ambiguity between design and engineering.
 
 💡 My approach combines:
 
-- Frontend development (React / Next.js / TypeScript)
-- UX-driven architecture and async-friendly component structure
-- API contract definition and integration based on frontend logic
+- Frontend-focused full-stack development (React / Next.js / TypeScript)
+- Accessible UI and inclusive UX
+- API integration and data flow design
+- UX-driven architecture and maintainable component design
 - Clear communication in distributed, trust-based teams
 
 ---
@@ -32,8 +34,8 @@ Practice your own answers out loud — built with accessibility at the core.
 
 ![Contrastly demo GIF](./images/contrastly-preview.gif)
 
-A lightweight tool for devs to check Tailwind colors against WCAG AA/AAA in real time.  
-Handy for frontend devs, backend engineers touching UI, or anyone aiming for **100/100 Lighthouse accessibility scores**.
+A lightweight tool for checking Tailwind colors against WCAG AA/AAA in real time.  
+Built for frontend developers, designers, and anyone aiming for clearer, more accessible UI.
 
 ✅ Next.js / TypeScript / Tailwind CSS
 
@@ -44,40 +46,41 @@ Handy for frontend devs, backend engineers touching UI, or anyone aiming for **1
 
 ## 🔎 Other Selected Projects
 
-- Web3 EdTech Platform — Async frontend dev, API contracts, secure Metamask login. [Case Study ↗](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
-- Automated PDF Report Tool — Prisma queries + Puppeteer for reports. [Case Study ↗](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
-- UX-Oriented Website Redesign — IA + flow restructure, boosted sessions +174%. [Case Study ↗](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
-- Tracking App — Fullstack habit tracker (Rails + React/Redux). [GitHub Repo ↗](https://github.com/yokoworks/Tracking-App-with-React-Redux)
-- Movie Library — Next.js + Supabase + Prisma + Auth. [GitHub Repo ↗](https://github.com/yokoworks/MyFavoriteMovies)
+- **Web3 EdTech Platform** — Frontend-focused full-stack work across async collaboration, API contracts, authentication flows, and certificate issuance. [Case Study ↗](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
+- **Automated PDF Report Tool** — React-based internal tool with Prisma-backed data handling and Puppeteer-based PDF generation. [Case Study ↗](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
+- **UX-Oriented Website Redesign** — IA and flow restructuring for a corporate website redesign that increased sessions by 174%. [Case Study ↗](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
+- **Tracking App** — Habit tracker built with Rails, React, and Redux. [GitHub Repo ↗](https://github.com/yokoworks/Tracking-App-with-React-Redux)
+- **Movie Library** — Next.js + Supabase + Prisma + Auth. [GitHub Repo ↗](https://github.com/yokoworks/MyFavoriteMovies)
 
 ---
 
-## 🌿 I believe in a structure that supports trust and autonomy.
+## 🌿 How I Work
 
-Whether working independently or as part of a distributed team,  
-I focus on clarifying requirements, sharing ideas early, and delivering code that respects users and teammates alike.
+Whether working independently or in a distributed team, I focus on clarifying requirements, sharing ideas early, and building products that respect both users and teammates.
 
-🔍 I’m currently deepening my accessibility practice — learning to design and build with inclusion from the start.  
-I see accessibility not just as a checklist, but as a way to sharpen engineering, UX, and real-world care.
+I care about making systems easier to understand across layers — from UI behavior and frontend architecture to API contracts, data flow, and product logic.
 
-📖 I also write about what I learn — mostly on accessibility, UX, and designing with care:
+Accessibility is an important part of how I build.  
+I see it not as a checklist, but as a way to sharpen engineering judgment, UX quality, and real-world usability from the start.
+
+📖 I also write about accessibility, UX, and thoughtful product design:
 
 - [What Building My First A11y-Focused App Taught Me ↗](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-183fbf1c3ea9)  
-  Featured in **JavaScript in Plain English**, a major publication for frontend developers and JavaScript practitioners.
+  Featured in **JavaScript in Plain English**
 
 - [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b)  
-  Featured in **Bootcamp (UX Collective)**, a curated UX publication reaching 3M+ monthly readers.
+  Featured in **Bootcamp (UX Collective)**
 
 - [The UX Lesson I Learned in a Quiet Tokyo Salon ↗](https://medium.com/@yokoworks.dev/the-ux-lesson-i-learned-in-a-quiet-tokyo-salon-1fa61e7e15b7)  
-  Also featured in **Bootcamp (UX Collective)**, and later selected for **Boost**, Medium’s editorial recommendation program.
-
+  Featured in **Bootcamp (UX Collective)** and selected for **Boost**
 
 🧠 Recently, I’ve been working on:
 
-- Designing and implementing frontend architecture in async environments
-- Aligning UI logic with backend structure and defining API contracts
+- Frontend-focused full-stack development with React, Next.js, and TypeScript
+- API integration and alignment between UI logic and backend structure
 - Building modular, maintainable UI components from Figma
-- Translating design insights into testable, clear code with documentation
+- Turning design and workflow complexity into clear, testable implementation
+- Accessibility-first product thinking and inclusive interface design
 
 ---
 
@@ -91,7 +94,7 @@ I see accessibility not just as a checklist, but as a way to sharpen engineering
 
 ---
 
-I’m especially passionate about clarifying logic across layers — from user flows to database design — to build products that feel simple, even when they aren’t.
+I’m especially interested in building products that stay clear across layers — from user flows and frontend implementation to API integration and data structure.
 
 Thanks for stopping by!  
-If you're looking for a frontend developer who bridges design and engineering, let’s build something thoughtful together.
+If you're looking for a full-stack engineer with a frontend focus who bridges UX, implementation, and product clarity, let’s build something thoughtful together.
