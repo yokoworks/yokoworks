@@ -88,4 +88,4 @@ I write about accessibility, UX, frontend work, communication, and product frict
 
 - [Sola Studio](https://solastudio.studio/)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
-- [Medium](https://medium.com/@yokoworks.dev)
+- [Medium](https://medium.com/@yokoworks)
