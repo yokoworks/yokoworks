@@ -1,8 +1,8 @@
 # Hi, I'm Yoko — Independent Frontend Engineer 👋
 
-I work across React, Next.js, TypeScript, accessibility, and product-facing frontend implementation.
+I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent frontend-focused practice working across frontend implementation, accessibility readiness, UI/UX review, Japan-facing UX and messaging review, and product clarity.
+I run Sola Studio, an independent frontend-focused practice working across frontend implementation, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging review, and product clarity.
 
 My work often sits where UI implementation, API collaboration, data flow, accessibility, product logic, user expectations, and communication meet. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
@@ -10,6 +10,7 @@ My work often sits where UI implementation, API collaboration, data flow, access
 
 - Frontend implementation with React, Next.js, and TypeScript
 - Accessibility-aware UI implementation
+- Accessibility review and remediation support through Sola Studio
 - Product-facing frontend support
 - UI, API, and data-flow collaboration
 - UX-aware screen and component structure
@@ -58,6 +59,7 @@ Built for frontend developers, designers, and anyone who needs to check contrast
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
 - **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
+- **Accessibility review and remediation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical frontend remediation.
 - **Japan-facing UX and messaging review** — review work through Sola Studio focused on wording, trust signals, information order, decision flow, and market-facing clarity.
 
 ---
@@ -68,7 +70,7 @@ I focus on clarifying requirements, sharing decisions clearly, and building fron
 
 Accessibility is part of how I make implementation decisions. I see it not only as compliance work, but as a practical way to improve UI quality, interaction design, and real-world usability.
 
-I also care about the friction that appears between layers: design intent, frontend behavior, API structure, data flow, business requirements, user expectations, and communication context.
+I also care about the friction that appears between layers: design intent, frontend behaviour, API structure, data flow, business requirements, user expectations, and communication context.
 
 ---
 
