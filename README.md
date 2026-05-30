@@ -2,7 +2,7 @@
 
 I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent frontend-focused practice supporting teams with frontend implementation, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging review, and product clarity.
+I run Sola Studio, an independent frontend-focused practice supporting teams with frontend implementation, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging, and product clarity.
 
 I often work on the parts of a product where UI implementation, API behaviour, data flow, accessibility, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
@@ -60,7 +60,7 @@ Built for frontend developers, designers, and anyone who needs to check contrast
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
 - **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
 - **Accessibility review and remediation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical frontend remediation.
-- **Japan-facing UX and messaging review** — review work through Sola Studio focused on wording, trust signals, information order, decision flow, and market-facing clarity.
+- **Japan-facing UX and messaging review** — review work through Sola Studio focused on Japan-facing pages, messages, materials, and flows, with attention to wording, trust signals, information order, decision flow, and market-facing clarity.
 
 ---
 
