@@ -1,21 +1,21 @@
 # Hi, I'm Yoko — Independent Frontend Engineer 👋
 
-I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
+I work across React, Next.js, TypeScript, product-facing frontend implementation, and accessibility-aware UI.
 
-I run Sola Studio, an independent frontend-focused practice supporting teams with frontend implementation, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging support, and product clarity.
+I run Sola Studio, an independent frontend-focused practice supporting teams with frontend implementation, Japan-facing UX and messaging support, accessibility review and remediation, UI/UX review, and product clarity.
 
 I often work on the parts of a product where UI implementation, API behaviour, data flow, accessibility, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
 ## Focus areas
 
 - Frontend implementation with React, Next.js, and TypeScript
+- Product-facing frontend support
+- UX-aware screen and component structure
+- UI, API, and data-flow collaboration
+- Japan-facing UX and messaging support through Sola Studio
 - Accessibility-aware UI implementation
 - Accessibility review and remediation support through Sola Studio
-- Product-facing frontend support
-- UI, API, and data-flow collaboration
-- UX-aware screen and component structure
 - UI/UX review for pages, forms, flows, and product screens
-- Japan-facing UX and messaging support through Sola Studio
 - Internal tools, dashboards, and data-heavy product screens
 - Clear written communication in distributed teams
 
@@ -59,8 +59,8 @@ Built for frontend developers, designers, and anyone who needs to check contrast
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
 - **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
-- **Accessibility review and remediation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical frontend remediation.
 - **Japan-facing UX and messaging support** — work through Sola Studio focused on Japan-facing pages, messages, materials, and flows, with attention to UX, messaging, wording, trust signals, information order, decision flow, and market-facing clarity.
+- **Accessibility review and remediation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical frontend remediation.
 
 ---
 
@@ -76,7 +76,7 @@ I also care about the friction that appears between layers: design intent, front
 
 ## Writing
 
-I write about accessibility, UX, frontend work, communication, and product friction that is easy to overlook in everyday delivery.
+I write about frontend work, UX, accessibility, communication, and product friction that is easy to overlook in everyday delivery.
 
 - [What Building My First A11y-Focused App Taught Me](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-183fbf1c3ea9)  
   Featured in JavaScript in Plain English
