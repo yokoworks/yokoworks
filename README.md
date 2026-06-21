@@ -23,6 +23,23 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 
 ## Main projects
 
+### Contrastly — Open-source Tailwind Color Contrast Checker
+
+![Contrastly preview](./images/contrastly.png)
+
+A lightweight open-source color contrast checker for Tailwind CSS palettes, custom hex values, and semantic color token decisions.
+
+Built for frontend developers, designers, and anyone who needs to check contrast quickly while working on UI.
+
+Originally created as a small practical tool, then cleaned up and released as open source through Sola Studio.
+
+**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
+
+- [Open app](https://contrastly.solastudio.studio/)
+- [Source code](https://github.com/sola-studio/contrastly)
+
+---
+
 ### Promotee — Interview Flashcard App
 
 ![Promotee demo GIF](./images/promotee-demo.gif)
@@ -35,21 +52,6 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 
 - [Try the app](https://www.promotee.app/)
 - [Read the story on Medium](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
-
----
-
-### Contrastly — Tailwind Colors Contrast Checker
-
-![Contrastly demo GIF](./images/contrastly-preview.gif)
-
-A fast color contrast checker for Tailwind palettes and semantic design tokens.
-
-Built for frontend developers, designers, and anyone who needs to check contrast quickly while working on UI.
-
-**Stack:** Next.js / TypeScript / Tailwind CSS
-
-- [Open app](https://contrastly.yokotools.dev/)
-- [About](https://contrastly.yokotools.dev/about)
 
 ---
 
@@ -91,6 +93,8 @@ I write about accessibility, frontend work, UX, communication, and product frict
 
 ## Links
 
-- [Sola Studio](https://solastudio.studio/)
+- [Sola Studio](https://solastudio.studio/international)
+- [Sola Journal](https://www.solajournal.org)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
+- [DevTo](https://dev.to/yokoworks)
