@@ -97,4 +97,3 @@ I write about accessibility, frontend work, UX, communication, and product frict
 - [Sola Journal](https://www.solajournal.org)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
-- [DevTo](https://dev.to/yokoworks)
