@@ -2,7 +2,7 @@
 
 I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent frontend-focused practice supporting teams with frontend implementation, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging support, and product clarity.
+I run Sola Studio, an independent frontend-focused practice supporting teams with frontend implementation, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging, Japan-facing review support, and product clarity.
 
 I often work on the parts of a product where UI implementation, API behaviour, data flow, accessibility, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
@@ -15,7 +15,7 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 - UI, API, and data-flow collaboration
 - UX-aware screen and component structure
 - UI/UX review for pages, forms, flows, and product screens
-- Japan-facing UX and messaging support through Sola Studio
+- Japan-facing UX, messaging, and review support through Sola Studio
 - Internal tools, dashboards, and data-heavy product screens
 - Clear written communication in distributed teams
 
@@ -61,8 +61,8 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
 - **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
-- **Accessibility review and remediation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical frontend remediation.
-- **Japan-facing UX and messaging support** — work through Sola Studio focused on Japan-facing pages, messages, materials, and flows, with attention to UX, messaging, wording, trust signals, information order, decision flow, and market-facing clarity.
+- **Accessibility review and remediation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical scoped frontend remediation.
+- **Japan-facing UX, messaging, and review support** — work through Sola Studio focused on Japan-facing pages, messages, materials, and flows, with attention to UX, messaging, wording, trust signals, information order, decision flow, review findings, and market-facing clarity.
 
 ---
 
