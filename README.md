@@ -25,7 +25,7 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 
 ### Contrastly — Open-source Tailwind Color Contrast Checker
 
-![Contrastly preview](./images/contrastly.png)
+![Contrastly preview](./images/contrastly-preview.gif)
 
 A lightweight open-source color contrast checker for Tailwind CSS palettes, custom hex values, and semantic color token decisions.
 
@@ -52,6 +52,26 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 
 - [Try the app](https://www.promotee.app/)
 - [Read the story on Medium](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
+
+---
+
+### Conversion Leak Estimator — Free Estimator for Japan-facing Conversion Friction
+
+![Conversion Leak Estimator demo GIF](./images/estimator-preview.gif)
+
+A free browser-based estimator for putting a rough number on possible
+missed opportunity caused by friction on a Japan-facing conversion flow.
+
+Built as part of Japan Bridge Friction Series at Sola Studio.
+Designed to make a problem that often stays vague easier to size,
+frame, and bring into internal discussion — using the user's own inputs
+and assumptions.
+
+**Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage /
+Accessibility-aware UI
+
+- [Try the estimator](https://solastudio.studio/international/business/japan-bridge-friction/estimator)
+- [See Japan Bridge Friction Series](https://solastudio.studio/international/business/japan-bridge-friction)
 
 ---
 
