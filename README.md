@@ -51,7 +51,26 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 
 - [Try the app](https://www.promotee.app/)
 - [Read the story on Medium](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
-  
+
+---
+
+### Conversion Leak Estimator — Free Estimator for Conversion Flow Friction
+
+![Conversion Leak Estimator demo GIF](./images/estimator-preview.gif)
+
+A free browser-based estimator for putting a rough number on possible
+missed opportunity caused by friction on a conversion flow.
+
+Built as part of Conversion Friction Series at Sola Studio.
+Designed to make a problem that often stays vague easier to size,
+frame, and bring into internal discussion — using the user's own inputs
+and assumptions.
+
+**Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessibility-aware UI
+
+- [Try the estimator](https://solastudio.studio/international/business/conversion-friction/estimator)
+- [See Conversion Friction Series](https://solastudio.studio/international/business/conversion-friction)
+
 ---
 
 ## Selected work
