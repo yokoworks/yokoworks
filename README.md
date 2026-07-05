@@ -68,8 +68,8 @@ and assumptions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessibility-aware UI
 
-- [Try the estimator](https://solastudio.studio/international/business/conversion-friction/estimator)
-- [See Conversion Friction Series](https://solastudio.studio/international/business/conversion-friction)
+- [Try the estimator](https://solastudio.studio/business/conversion-friction/estimator)
+- [See Conversion Friction Series](https://solastudio.studio/business/conversion-friction)
 
 ---
 
@@ -110,7 +110,7 @@ I write about accessibility, frontend work, UX, communication, and product frict
 
 ## Links
 
-- [Sola Studio](https://solastudio.studio/international)
+- [Sola Studio](https://solastudio.studio)
 - [Sola Journal](https://www.solajournal.org)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
