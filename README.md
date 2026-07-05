@@ -2,20 +2,20 @@
 
 I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent frontend-focused practice supporting teams with frontend implementation, accessibility review and remediation, UI/UX review, and product clarity.
+I run Sola Studio, an independent practice supporting teams with interface clarity and UX review, frontend implementation, and accessibility review and remediation.
 
 I often work on the parts of a product where UI implementation, API behaviour, data flow, accessibility, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
 ## Focus areas
 
+- Interface clarity and UX review for pages, forms, flows, and product screens
+- UX-aware screen and component structure
 - Frontend implementation with React, Next.js, and TypeScript
-- Accessibility-aware UI implementation
-- Accessibility review and remediation support through Sola Studio
 - Product-facing frontend support
 - UI, API, and data-flow collaboration
-- UX-aware screen and component structure
-- UI/UX review for pages, forms, flows, and product screens
 - Internal tools, dashboards, and data-heavy product screens
+- Accessibility-aware UI implementation
+- Accessibility review and remediation support through Sola Studio
 - Clear written communication in distributed teams
 
 ---
