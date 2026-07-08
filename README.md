@@ -89,7 +89,7 @@ I focus on clarifying requirements, sharing decisions clearly, and building fron
 
 Accessibility is part of how I make implementation decisions. I see it not only as compliance work, but as a practical way to improve UI quality, interaction design, and real-world usability.
 
-I also care about the friction that appears between layers: design intent, frontend behaviour, API structure, data flow, business requirements, user expectations, and communication context.
+I also care about the friction that appears between layers: design intent, frontend implementation, accessibility, backend constraints, data flow, business context, user expectations, and team communication.
 
 ---
 
