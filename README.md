@@ -1,4 +1,4 @@
-# Hi, I'm Yoko — Independent Frontend Engineer 👋
+# Hi, I'm Yoko — Frontend Engineer, Interface Clarity & Accessibility 👋
 
 I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
 
