@@ -2,20 +2,17 @@
 
 I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent practice supporting teams with interface clarity and UX review, frontend implementation, and accessibility review and remediation.
+I run Sola Studio, an independent practice supporting teams with interface clarity, frontend implementation, and accessibility.
 
 I often work on the parts of a product where UI implementation, API behaviour, data flow, accessibility, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
 ## Focus areas
 
-- Interface clarity and UX review for pages, forms, flows, and product screens
-- UX-aware screen and component structure
+- Interface clarity — pages, forms, flows, and product screen structure
 - Frontend implementation with React, Next.js, and TypeScript
-- Product-facing frontend support
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
-- Accessibility-aware UI implementation
-- Accessibility review and remediation support through Sola Studio
+- Accessibility-aware UI implementation, through Sola Studio
 - Clear written communication in distributed teams
 
 ---
@@ -61,15 +58,15 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 A free browser-based estimator for putting a rough number on possible
 missed opportunity caused by friction on a conversion flow.
 
-Built as part of Conversion Friction Series at Sola Studio.
+Built as part of Conversion & Accessibility Series at Sola Studio.
 Designed to make a problem that often stays vague easier to size,
 frame, and bring into internal discussion — using the user's own inputs
 and assumptions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessibility-aware UI
 
-- [Try the estimator](https://solastudio.studio/business/conversion-friction/estimator)
-- [See Conversion Friction Series](https://solastudio.studio/business/conversion-friction)
+- [Try the estimator](https://solastudio.studio/business/conversion-a11y/estimator)
+- [See Conversion Friction Series](https://solastudio.studio/business/conversion-a11y)
 
 ---
 
@@ -79,7 +76,7 @@ and assumptions.
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
 - **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
-- **Accessibility review and remediation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical scoped frontend remediation.
+- **Accessibility review and implementation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical scoped frontend implementation.
 
 ---
 
