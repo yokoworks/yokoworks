@@ -2,7 +2,7 @@
 
 I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent practice supporting teams with interface clarity, frontend implementation, and accessibility.
+I run Sola Studio, an independent practice supporting teams with interface clarity, accessibility, and frontend implementation.
 
 I often work on the parts of a product where UI implementation, API behaviour, data flow, accessibility, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
@@ -66,7 +66,7 @@ and assumptions.
 **Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessibility-aware UI
 
 - [Try the estimator](https://solastudio.studio/business/conversion-a11y/estimator)
-- [See Conversion Friction Series](https://solastudio.studio/business/conversion-a11y)
+- [See Conversion & Accessibility Series](https://solastudio.studio/business/conversion-a11y)
 
 ---
 
