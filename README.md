@@ -21,7 +21,7 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 
 ### Contrastly — Open-source Tailwind Color Contrast Checker
 
-![Contrastly preview](./images/contrastly-preview.gif)
+![Contrastly preview](./images/contrastly.gif)
 
 A lightweight open-source color contrast checker for Tailwind CSS palettes, custom hex values, and semantic color token decisions.
 
