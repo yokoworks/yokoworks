@@ -1,6 +1,6 @@
 # Hi, I'm Yoko — Frontend Engineer, Interface Clarity & Accessibility 👋
 
-I work across React, Next.js, TypeScript, accessibility-aware UI, and product-facing frontend implementation.
+I work across React, Next.js, TypeScript, accessible UI, and product-facing frontend implementation.
 
 I run Sola Studio, an independent practice supporting teams with interface clarity, accessibility, and frontend implementation.
 
@@ -12,7 +12,7 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 - Frontend implementation with React, Next.js, and TypeScript
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
-- Accessibility-aware UI implementation, through Sola Studio
+- Accessible UI implementation, through Sola Studio
 - Clear written communication in distributed teams
 
 ---
@@ -29,7 +29,7 @@ Built for frontend developers, designers, and anyone who needs to check contrast
 
 Originally created as a small practical tool, then cleaned up and released as open source through Sola Studio.
 
-**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
+**Stack:** Next.js / TypeScript / Tailwind CSS / Accessible UI
 
 - [Open app](https://contrastly.solastudio.studio/)
 - [Source code](https://github.com/sola-studio/contrastly)
@@ -44,7 +44,7 @@ An interview practice app built with accessibility considered from the start.
 
 Built for practicing answers out loud, reviewing prompts, and supporting a clearer interview preparation flow.
 
-**Stack:** Next.js / TypeScript / Tailwind CSS / Zustand / Accessibility-aware UI
+**Stack:** Next.js / TypeScript / Tailwind CSS / Zustand / Accessible UI
 
 - [Try the app](https://www.promotee.app/)
 - [Read the story on Medium](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
@@ -63,7 +63,7 @@ Designed to make a problem that often stays vague easier to size,
 frame, and bring into internal discussion — using the user's own inputs
 and assumptions.
 
-**Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessibility-aware UI
+**Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessible UI
 
 - [Try the estimator](https://solastudio.studio/business/conversion-a11y/estimator)
 - [See Conversion & Accessibility Series](https://solastudio.studio/business/conversion-a11y)
