@@ -1,10 +1,10 @@
-# Hi, I'm Yoko — Frontend Engineer, Interface Clarity & Accessibility 👋
+# Hi, I'm Yoko — Frontend Engineer 👋
 
 I work across React, Next.js, TypeScript, accessible UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent practice supporting teams with interface clarity, web accessibility, and UI implementation.
+I run Sola Studio, an independent practice supporting teams with interface clarity and UI implementation.
 
-I often work on the parts of a product where UI implementation, API behaviour, data flow, accessibility, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
+I often work on the parts of a product where UI implementation, API behaviour, data flow, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
 ## Focus areas
 
@@ -12,7 +12,6 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 - UI implementation with React, Next.js, and TypeScript
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
-- Accessible UI implementation, through Sola Studio
 - Clear written communication in distributed teams
 
 ---
@@ -65,8 +64,7 @@ and assumptions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessible UI
 
-- [Try the estimator](https://solastudio.studio/business/conversion-a11y/estimator)
-- [See Conversion & Accessibility Series](https://solastudio.studio/business/conversion-a11y)
+- [Try the estimator](https://solastudio.studio/business/estimator)
 
 ---
 
@@ -84,15 +82,13 @@ and assumptions.
 
 I focus on clarifying requirements, sharing decisions clearly, and building frontend systems that stay understandable across product, design, engineering, and operations.
 
-Accessibility is part of how I make implementation decisions. I see it not only as compliance work, but as a practical way to improve UI quality, interaction design, and real-world usability.
-
-I also care about the friction that appears between layers: design intent, frontend implementation, accessibility, backend constraints, data flow, business context, user expectations, and team communication.
+I also care about the friction that appears between layers: design intent, frontend implementation, backend constraints, data flow, business context, user expectations, and team communication.
 
 ---
 
 ## Writing
 
-I write about accessibility, frontend work, UX, communication, and product friction that is easy to overlook in everyday delivery.
+I write about frontend work, UX, communication, and product friction that is easy to overlook in everyday delivery.
 
 - [What Building My First A11y-Focused App Taught Me](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-183fbf1c3ea9)  
   Featured in JavaScript in Plain English
