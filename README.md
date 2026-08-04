@@ -2,13 +2,13 @@
 
 I work across React, Next.js, TypeScript, accessible UI, and product-facing frontend implementation.
 
-I run Sola Studio, an independent practice supporting teams with interface clarity and UI implementation.
+I run Sola Studio, an independent practice working on the gaps between screens, wording, and implementation.
 
 I often work on the parts of a product where UI implementation, API behaviour, data flow, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
 
 ## Focus areas
 
-- Interface clarity — pages, forms, flows, and product screen structure
+- Interface and screen structure — pages, forms, flows, and product screens
 - UI implementation with React, Next.js, and TypeScript
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
@@ -57,11 +57,6 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 A free browser-based estimator for putting a rough number on possible
 missed opportunity caused by friction on a conversion flow.
 
-Built as part of Conversion & Accessibility Series at Sola Studio.
-Designed to make a problem that often stays vague easier to size,
-frame, and bring into internal discussion — using the user's own inputs
-and assumptions.
-
 **Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessible UI
 
 - [Try the estimator](https://solastudio.studio/business/estimator)
@@ -74,7 +69,6 @@ and assumptions.
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
 - **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
-- **Accessibility review and implementation support** — review and implementation support through Sola Studio, focused on selected pages, flows, components, WCAG 2.2 AA-related issues, prioritised findings, and practical scoped frontend implementation.
 
 ---
 
