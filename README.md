@@ -9,7 +9,7 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 ## Focus areas
 
 - Interface and screen structure — pages, forms, flows, and product screens
-- UI implementation with React, Next.js, and TypeScript
+- Frontend implementation with React, Next.js, and TypeScript
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
 - Clear written communication in distributed teams
@@ -46,7 +46,7 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 **Stack:** Next.js / TypeScript / Tailwind CSS / Zustand / Accessible UI
 
 - [Try the app](https://www.promotee.app/)
-- [Read the story on Medium](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
+- [Read the story on Medium](https://javascript.plainenglish.io/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1?sharedUserId=yokoworks)
 
 ---
 
@@ -65,7 +65,7 @@ missed opportunity caused by friction on a conversion flow.
 
 ## Selected work
 
-- **Internal data dashboards** — dashboard wireframes, CSV-driven workflows, requirements structuring, and React / TypeScript UI prototyping for data-heavy internal tools.
+- **Internal energy operations dashboard** — requirements structuring, CSV workflow and validation design, React / TypeScript prototyping, implementation-ready specifications for an external vendor, code review, and targeted implementation in the production codebase.
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
 - **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
@@ -84,13 +84,10 @@ I also care about the friction that appears between layers: design intent, front
 
 I write about frontend work, UX, communication, and product friction that is easy to overlook in everyday delivery.
 
-- [What Building My First A11y-Focused App Taught Me](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-183fbf1c3ea9)  
-  Featured in JavaScript in Plain English
-
-- [From Universal Design to Personalized Interfaces](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b)  
+- [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)  
   Featured in Bootcamp / UX Collective
 
-- [The UX Lesson I Learned in a Quiet Tokyo Salon](https://medium.com/@yokoworks.dev/the-ux-lesson-i-learned-in-a-quiet-tokyo-salon-1fa61e7e15b7)  
+- [The UX Lesson I Learned in a Quiet Tokyo Salon](https://medium.com/design-bootcamp/a-quiet-shift-how-emotional-insight-became-my-first-ux-lesson-d1a654bc7490?sharedUserId=yokoworks)  
   Featured in Bootcamp / UX Collective and selected for Boost
 
 ---
