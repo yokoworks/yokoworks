@@ -10,6 +10,7 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 
 - Interface and screen structure — pages, forms, flows, and product screens
 - Frontend implementation with React, Next.js, and TypeScript
+- Accessibility in the codebase — semantic HTML, ARIA, keyboard and focus behavior
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
 - Clear written communication in distributed teams
