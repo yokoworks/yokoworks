@@ -60,7 +60,7 @@ missed opportunity caused by friction on a conversion flow.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessible UI
 
-- [Try the estimator](https://solastudio.studio/business/estimator)
+- [Try the estimator](https://solastudio.studio/services/estimator)
 
 ---
 
