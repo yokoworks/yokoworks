@@ -1,6 +1,6 @@
 # Hi, I'm Yoko — Frontend Engineer 👋
 
-I work across React, Next.js, TypeScript, accessible UI, and product-facing frontend implementation.
+I work across React, Next.js, TypeScript, accessibility remediation, and product-facing frontend implementation.
 
 I run Sola Studio, an independent practice working on the gaps between screens, wording, and implementation.
 
@@ -10,7 +10,7 @@ I often work on the parts of a product where UI implementation, API behaviour, d
 
 - Interface and screen structure — pages, forms, flows, and product screens
 - Frontend implementation with React, Next.js, and TypeScript
-- Accessibility in the codebase — semantic HTML, ARIA, keyboard and focus behavior
+- Accessibility remediation in the codebase — semantic HTML, ARIA, keyboard and focus behavior
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
 - Clear written communication in distributed teams
