@@ -1,10 +1,8 @@
 # Hi, I'm Yoko — Frontend Engineer 👋
 
-I work across React, Next.js, TypeScript, accessibility remediation, and product-facing frontend implementation.
+I build product frontends in React, Next.js, and TypeScript, and remediate accessibility issues from external findings — with an eye on what users need and how the business reads.
 
-I run Sola Studio, an independent practice working on the gaps between screens, wording, and implementation.
-
-I often work on the parts of a product where UI implementation, API behaviour, data flow, product logic, user expectations, and team communication need to line up. I care about making product screens easier to understand, implement, maintain, and improve across layers.
+I run Sola Studio, a small independent studio offering frontend implementation and accessibility remediation to product teams.
 
 ## Focus areas
 
@@ -55,12 +53,11 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 
 ![Conversion Leak Estimator demo GIF](./images/estimator-preview.gif)
 
-A free browser-based estimator for putting a rough number on possible
-missed opportunity caused by friction on a conversion flow.
+A free browser-based estimator for putting a rough number on possible missed opportunity caused by friction on a conversion flow.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Session Storage / Accessible UI
 
-- [Try the estimator](https://solastudio.studio/services/estimator)
+- [Try the estimator](https://solastudio.studio/estimator)
 
 ---
 
@@ -77,18 +74,16 @@ missed opportunity caused by friction on a conversion flow.
 
 I focus on clarifying requirements, sharing decisions clearly, and building frontend systems that stay understandable across product, design, engineering, and operations.
 
-I also care about the friction that appears between layers: design intent, frontend implementation, backend constraints, data flow, business context, user expectations, and team communication.
-
 ---
 
 ## Writing
 
 I write about frontend work, UX, communication, and product friction that is easy to overlook in everyday delivery.
 
-- [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)  
+- [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)
   Featured in Bootcamp / UX Collective
 
-- [The UX Lesson I Learned in a Quiet Tokyo Salon](https://medium.com/design-bootcamp/a-quiet-shift-how-emotional-insight-became-my-first-ux-lesson-d1a654bc7490?sharedUserId=yokoworks)  
+- [The UX Lesson I Learned in a Quiet Tokyo Salon](https://medium.com/design-bootcamp/a-quiet-shift-how-emotional-insight-became-my-first-ux-lesson-d1a654bc7490?sharedUserId=yokoworks)
   Featured in Bootcamp / UX Collective and selected for Boost
 
 ---
@@ -99,3 +94,7 @@ I write about frontend work, UX, communication, and product friction that is eas
 - [Sola Journal](https://www.solajournal.org)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
+
+---
+
+変更は冒頭3行とHow I workの最後の段落のみ。確認してほしい。
