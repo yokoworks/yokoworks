@@ -63,7 +63,6 @@ A free browser-based estimator for putting a rough number on possible missed opp
 - **Internal energy operations dashboard** — requirements structuring, CSV workflow and validation design, React / TypeScript prototyping, implementation-ready specifications for an external vendor, code review, and targeted implementation in the production codebase.
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
-- 
 
 ---
 
