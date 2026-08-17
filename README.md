@@ -1,8 +1,6 @@
 # Hi, I'm Yoko — Frontend Engineer 👋
 
-I build product frontends in React, Next.js, and TypeScript, and remediate accessibility issues — with an eye on what users need and how the business reads.
-
-I run Sola Studio, a small independent studio offering frontend implementation and accessibility remediation to product teams.
+I build product frontends in React, Next.js, and TypeScript, and remediate accessibility issues — across B2B SaaS, internal tools, dashboards, and EdTech.
 
 ## Focus areas
 
@@ -11,7 +9,6 @@ I run Sola Studio, a small independent studio offering frontend implementation a
 - Accessibility remediation in the codebase — semantic HTML, ARIA, keyboard and focus behavior
 - UI, API, and data-flow collaboration
 - Internal tools, dashboards, and data-heavy product screens
-- Clear written communication in distributed teams
 
 ---
 
@@ -66,19 +63,11 @@ A free browser-based estimator for putting a rough number on possible missed opp
 - **Internal energy operations dashboard** — requirements structuring, CSV workflow and validation design, React / TypeScript prototyping, implementation-ready specifications for an external vendor, code review, and targeted implementation in the production codebase.
 - **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
 - **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
-- **UX-Oriented Website Redesign** — information architecture and flow restructuring for a corporate website redesign.
-
----
-
-## How I work
-
-I focus on clarifying requirements, sharing decisions clearly, and building frontend systems that stay understandable across product, design, engineering, and operations.
+- 
 
 ---
 
 ## Writing
-
-I write about frontend work, UX, communication, and product friction that is easy to overlook in everyday delivery.
 
 - [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)
   Featured in Bootcamp / UX Collective
@@ -94,7 +83,3 @@ I write about frontend work, UX, communication, and product friction that is eas
 - [Sola Journal](https://www.solajournal.org)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
-
----
-
-変更は冒頭3行とHow I workの最後の段落のみ。確認してほしい。
