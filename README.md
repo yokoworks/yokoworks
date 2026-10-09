@@ -27,7 +27,7 @@ Originally created as a small practical tool, then cleaned up and released as op
 **Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui / Playwright with Axe
 
 - [Open app](https://contrastly.solastudio.studio/)
-- [Source code](https://github.com/sola-studio/contrastly)
+- [Source code](https://github.com/yokoworks/contrastly)
 
 ---
 
@@ -65,7 +65,6 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 ---
 
 ## Links
-
 - [Sola Studio](https://solastudio.studio)
 - [Sola Journal](https://www.solajournal.org)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
