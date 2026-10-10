@@ -63,7 +63,7 @@ I built and shipped it with accessibility considered from the start, implementin
 **Stack:** Next.js / TypeScript / Tailwind CSS / Zustand / Radix UI / shadcn/ui
 
 - [Try the app](https://www.promotee.app/)
-- [Read the story on Medium](https://javascript.plainenglish.io/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1?sharedUserId=yokoworks)
+- [Read the story on Medium](https://javascript.plainenglish.io/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
 
 ---
 
