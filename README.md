@@ -67,16 +67,6 @@ I built and shipped it with accessibility considered from the start, implementin
 
 ---
 
-## Background
-
-My work draws on frontend engineering, UX consultancy, and commercial experience in customer strategy, pricing and creative direction. I connect what people need and what the business is trying to achieve with the technical decisions that make it work.
-
-I work in English and Japanese and have worked in distributed teams across Europe and Asia, including a four-person team spanning Singapore, Japan, the US and Malta. I document decisions and their reasoning for asynchronous collaboration.
-
-**Certifications:** IAAP CPACC · CSM · CSPO
-
-I take on project-based UX architecture through Sola Studio and build tools and applications of my own.
-
 ## Writing
 
 - [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)  
