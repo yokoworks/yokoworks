@@ -1,14 +1,35 @@
-# Hi, I'm Yoko — Web Developer with Accessibility Focus 👋
+# Hi, I'm Yoko — UX Architect & Frontend Engineer 👋
 
-I build and improve web applications and digital products — in React, Next.js, and TypeScript, and across the broader web stack. I also remediate accessibility issues across semantic structure, keyboard interaction, and user-facing behaviour — and have worked across B2B SaaS, internal tools, dashboards, ecommerce, and EdTech.
+**Product behaviour, data flows & implementation-ready specifications.**  
+**Frontend architecture and implementation with React, Next.js and TypeScript.**
+
+I settle the decisions that otherwise get made inside the code — and I also build and ship web applications.
+
+I work through how a product should behave: what happens after an action, where data goes, which side validates what, and how someone understands and recovers from an error. I make unresolved requirements concrete, work through alternatives with the people responsible, and turn agreements into specifications engineers can build from.
+
+My hands-on engineering experience includes leading frontend architecture and implementation as the sole frontend engineer on a React and Next.js product, developing financial SaaS interfaces, and refactoring legacy game code.
+
+When behaviour is difficult to judge on paper, I test it in a working prototype built in the project’s own stack. My engineering background lets me carry decisions through to working code, whether I am writing the implementation or reviewing it with a team.
 
 ## Focus areas
 
-- Web applications and product interfaces — pages, forms, flows, and screens
-- Implementation in React, Next.js, and TypeScript, and across the broader web stack
-- Accessibility remediation in the codebase — semantic HTML, ARIA, keyboard and focus behavior
-- UI, API, and data-flow collaboration
-- Internal tools, dashboards, ecommerce, and data-heavy product screens
+- **Product behaviour:** interactions, UI states, validation, error handling and recovery flows.
+- **Data flows and API agreements:** working with backend engineers to define data contracts and frontend/backend responsibilities.
+- **Frontend architecture and implementation:** applications, reusable components and product interfaces in React, Next.js and TypeScript.
+- **Accessibility in the codebase:** semantic HTML, ARIA, keyboard interaction, focus behaviour and screen-reader support, with automated and manual checks.
+- **Specifications and implementation review:** documenting decisions and their reasoning, checking the working product against agreed behaviour, and resolving issues in code.
+
+## Selected experience
+
+### Energy operations dashboard
+
+Carried UX architecture for operating-plan management and mode switching from operational interviews through specifications, backend coordination and vendor implementation review to production. Defined interactions, data flows, validation boundaries and error-code mappings to English and Japanese messages. Provided sample code and directly corrected implementation issues. Both feature areas are in operational use.
+
+### Web3 learning platform
+
+Led frontend architecture and implementation from the initial MVP as the sole frontend engineer. Built the flow from wallet login to certificate issuance, including failed transactions, network mismatches and recovery after interruption. Co-designed API contracts and data flows with the backend engineer, and implemented authentication, user-facing interfaces and admin screens.
+
+More background and case-study detail: [UX Architect Portfolio](https://ux.solastudio.studio/) · [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 
 ---
 
@@ -18,11 +39,11 @@ I build and improve web applications and digital products — in React, Next.js,
 
 ![Contrastly preview](./images/contrastly.gif)
 
-A lightweight open-source color contrast checker for Tailwind CSS palettes, custom hex values, and semantic color token decisions.
+A lightweight open-source colour contrast checker for Tailwind CSS palettes, custom hex values and semantic colour token decisions.
 
-Built for frontend developers, designers, and anyone who needs to check contrast quickly while working on UI.
+Built for frontend developers, designers and anyone who needs to check contrast quickly while working on UI. Includes one-click colour selection, keyboard interaction and reduced-motion support, with automated and manual accessibility checks.
 
-Originally created as a small practical tool, then cleaned up and released as open source through Sola Studio.
+I built it as a practical tool, then cleaned it up and released it as open source through Sola Studio.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui / Playwright with Axe
 
@@ -35,9 +56,9 @@ Originally created as a small practical tool, then cleaned up and released as op
 
 ![Promotee demo GIF](./images/promotee-demo.gif)
 
-An interview practice app built with accessibility considered from the start.
+A CSV-based interview practice app for practising answers out loud and reviewing prompts.
 
-Built for practicing answers out loud, reviewing prompts, and supporting a clearer interview preparation flow.
+I built and shipped it with accessibility considered from the start, implementing and validating semantic structure, keyboard interaction, focus behaviour, screen-reader support and colour contrast.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Zustand / Radix UI / shadcn/ui
 
@@ -46,26 +67,30 @@ Built for practicing answers out loud, reviewing prompts, and supporting a clear
 
 ---
 
-## Selected work
+## Background
 
-- **Internal energy operations dashboard** — requirements structuring, CSV workflow and validation design, React / TypeScript prototyping, implementation-ready specifications for an external vendor, code review, and targeted implementation in the production codebase.
-- **Web3 EdTech Platform** — frontend implementation across async collaboration, API contracts, authentication flows, wallet connection, and certificate issuance.
-- **Automated PDF Report Tool** — React-based internal reporting tool with data handling, chart rendering, and automated PDF generation.
+My work draws on frontend engineering, UX consultancy, and commercial experience in customer strategy, pricing and creative direction. I connect what people need and what the business is trying to achieve with the technical decisions that make it work.
 
----
+I work in English and Japanese and have worked in distributed teams across Europe and Asia, including a four-person team spanning Singapore, Japan, the US and Malta. I document decisions and their reasoning for asynchronous collaboration.
+
+**Certifications:** IAAP CPACC · CSM · CSPO
+
+I take on project-based UX architecture through Sola Studio and build tools and applications of my own.
 
 ## Writing
 
-- [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)
+- [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)  
   Featured in Bootcamp / UX Collective
 
-- [The UX Lesson I Learned in a Quiet Tokyo Salon](https://medium.com/design-bootcamp/a-quiet-shift-how-emotional-insight-became-my-first-ux-lesson-d1a654bc7490?sharedUserId=yokoworks)
+- [The UX Lesson I Learned in a Quiet Tokyo Salon](https://medium.com/design-bootcamp/a-quiet-shift-how-emotional-insight-became-my-first-ux-lesson-d1a654bc7490?sharedUserId=yokoworks)  
   Featured in Bootcamp / UX Collective and selected for Boost
 
 ---
 
 ## Links
-- [Sola Studio](https://solastudio.studio)
-- [Sola Journal](https://www.solajournal.org)
+
+- [UX Architect Portfolio](https://ux.solastudio.studio/)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
+- [Sola Studio](https://solastudio.studio)
+- [Sola Journal](https://www.solajournal.org)
