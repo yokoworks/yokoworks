@@ -9,7 +9,7 @@ I work through how a product should behave: what happens after an action, where 
 
 My hands-on engineering experience includes leading frontend architecture and implementation as the sole frontend engineer on a React and Next.js product, developing financial SaaS interfaces, and refactoring legacy game code.
 
-When behaviour is difficult to judge on paper, I test it in a working prototype built in the project’s own stack. My engineering background lets me carry decisions through to working code, whether I am writing the implementation or reviewing it with a team.
+When behaviour is difficult to judge on paper, I test it in a working prototype. My engineering background lets me carry decisions through to working code, whether I am writing the implementation or reviewing it with a team.
 
 ## Focus areas
 
