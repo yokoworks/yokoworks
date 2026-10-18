@@ -25,7 +25,7 @@ When behaviour is difficult to judge on paper, I test it in a working prototype.
 
 ### UX Architecture to Code — Staff Schedule Dashboard
 
-![Staff schedule dashboard after a successful CSV upload](https://raw.githubusercontent.com/yokoworks/ux-sample-dashboard/main/public/images/mock-image.png)
+![Staff schedule dashboard after a successful CSV upload](https://raw.githubusercontent.com/yokoworks/ux-sample-dashboard/main/public/images/mock-anim.gif)
 
 <!-- When the GIF is ready, replace the image above with:
 ![CSV upload validation and successful update demo](./images/ux-sample-dashboard.gif)
