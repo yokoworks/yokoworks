@@ -19,18 +19,6 @@ When behaviour is difficult to judge on paper, I test it in a working prototype.
 - **Accessibility in the codebase:** semantic HTML, ARIA, keyboard interaction, focus behaviour and screen-reader support, with automated and manual checks.
 - **Specifications and implementation review:** documenting decisions and their reasoning, checking the working product against agreed behaviour, and resolving issues in code.
 
-## Selected experience
-
-### Energy operations dashboard
-
-Carried UX architecture for operating-plan management and mode switching from operational interviews through specifications, backend coordination and vendor implementation review to production. Defined interactions, data flows, validation boundaries and error-code mappings to English and Japanese messages. Provided sample code and directly corrected implementation issues. Both feature areas are in operational use.
-
-### Web3 learning platform
-
-Led frontend architecture and implementation from the initial MVP as the sole frontend engineer. Built the flow from wallet login to certificate issuance, including failed transactions, network mismatches and recovery after interruption. Co-designed API contracts and data flows with the backend engineer, and implemented authentication, user-facing interfaces and admin screens.
-
-More background and case-study detail: [UX Architect Portfolio](https://ux.solastudio.studio/) · [LinkedIn](https://www.linkedin.com/in/yokoworks/)
-
 ---
 
 ## Main projects
