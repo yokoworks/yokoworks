@@ -35,17 +35,30 @@ More background and case-study detail: [UX Architect Portfolio](https://ux.solas
 
 ## Main projects
 
+### UX Architecture to Code — Staff Schedule Dashboard
+
+![Staff schedule dashboard after a successful CSV upload](https://raw.githubusercontent.com/yokoworks/ux-sample-dashboard/main/public/images/mock-image.png)
+
+<!-- When the GIF is ready, replace the image above with:
+![CSV upload validation and successful update demo](./images/ux-sample-dashboard.gif)
+The GIF must first be added to the images/ folder of the yokoworks profile repository. -->
+
+One selected workflow, three connected representations: an interactive UX specification, Figma designs, and a working Next.js dashboard.
+
+The implementation shows how validation rules, UI states, feedback, and recovery decisions carry through from specification to working code.
+
+**Stack:** Next.js / React / TypeScript / Tailwind CSS / Radix UI
+
+- [Live demo](https://ux-sample-dashboard.solastudio.studio/)
+- [Interactive UX specification](https://ux.solastudio.studio/spec-sample)
+- [Figma design](https://www.figma.com/design/mLdmFMaurH8tFL0VwA6TuK/Linden-Bakery---Caf%C3%A9---Staff-Schedule-Dashboard?node-id=0-1)
+- [Source code](https://github.com/yokoworks/ux-sample-dashboard)
+
+---
+
 ### Contrastly — Open-source Tailwind Color Contrast Checker
 
-![Contrastly preview](./images/contrastly.gif)
-
-A lightweight open-source colour contrast checker for Tailwind CSS palettes, custom hex values and semantic colour token decisions.
-
-Built for frontend developers, designers and anyone who needs to check contrast quickly while working on UI. Includes one-click colour selection, keyboard interaction and reduced-motion support, with automated and manual accessibility checks.
-
-I built it as a practical tool, then cleaned it up and released it as open source through Sola Studio.
-
-**Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui / Playwright with Axe
+An open-source Tailwind colour contrast checker for palettes, hex values, and semantic tokens, with keyboard interaction, reduced-motion support, and automated/manual accessibility checks.
 
 - [Open app](https://contrastly.solastudio.studio/)
 - [Source code](https://github.com/yokoworks/contrastly)
@@ -54,13 +67,7 @@ I built it as a practical tool, then cleaned it up and released it as open sourc
 
 ### Promotee — Interview Flashcard App
 
-![Promotee demo GIF](./images/promotee-demo.gif)
-
-A CSV-based interview practice app for practising answers out loud and reviewing prompts.
-
-I built and shipped it with accessibility considered from the start, implementing and validating semantic structure, keyboard interaction, focus behaviour, screen-reader support and colour contrast.
-
-**Stack:** Next.js / TypeScript / Tailwind CSS / Zustand / Radix UI / shadcn/ui
+A CSV-based interview practice app built with semantic structure, keyboard interaction, focus behaviour, screen-reader support, and colour contrast considered from the start.
 
 - [Try the app](https://www.promotee.app/)
 - [Read the story on Medium](https://javascript.plainenglish.io/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
