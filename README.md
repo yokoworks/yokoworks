@@ -1,11 +1,11 @@
 # Hi, I'm Yoko — UX Architect & Frontend Engineer 👋
 
-**Product behaviour, data flows & implementation-ready specifications.**  
+**User experience, system behaviour, data flows & implementation-ready specifications.**
 **Frontend architecture and implementation with React, Next.js and TypeScript.**
 
-I settle the decisions that otherwise get made inside the code — and I also build and ship web applications.
+I design the user experience and the system behaviour behind it as one — and I also build and ship web applications.
 
-I work through how a product should behave: what happens after an action, where data goes, which side validates what, and how someone understands and recovers from an error. I make unresolved requirements concrete, work through alternatives with the people responsible, and turn agreements into specifications engineers can build from.
+I work through how a product behaves in use: what happens after an action, where data goes, which side validates what, and how someone understands an error and recovers. I bring what users are trying to do together with business rules and technical constraints, work through the trade-offs with the people responsible, and turn what we agree into specifications engineers can build from.
 
 My hands-on engineering experience includes leading frontend architecture and implementation as the sole frontend engineer on a React and Next.js product, developing financial SaaS interfaces, and refactoring legacy game code.
 
@@ -26,10 +26,6 @@ When behaviour is difficult to judge on paper, I test it in a working prototype.
 ### UX Architecture to Code — Staff Schedule Dashboard
 
 ![Staff schedule dashboard after a successful CSV upload](https://raw.githubusercontent.com/yokoworks/ux-sample-dashboard/main/public/images/mock-anim.gif)
-
-<!-- When the GIF is ready, replace the image above with:
-![CSV upload validation and successful update demo](./images/ux-sample-dashboard.gif)
-The GIF must first be added to the images/ folder of the yokoworks profile repository. -->
 
 One selected workflow, three connected representations: an interactive UX specification, Figma designs, and a working Next.js dashboard.
 
