@@ -31,7 +31,7 @@ One selected workflow, three connected representations: an interactive UX specif
 
 The implementation shows how validation rules, UI states, feedback, and recovery decisions carry through from specification to working code.
 
-**Stack:** Next.js / React / TypeScript / Tailwind CSS / Radix UI
+**Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI
 
 - [Live demo](https://ux-sample-dashboard.solastudio.studio/)
 - [Interactive UX specification](https://ux.solastudio.studio/spec-sample)
@@ -47,6 +47,8 @@ An open-source Tailwind colour contrast checker for palettes, hex values, and se
 - [Open app](https://contrastly.solastudio.studio/)
 - [Source code](https://github.com/yokoworks/contrastly)
 
+**Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui / Supabase
+
 ---
 
 ### Promotee — Interview Flashcard App
@@ -55,6 +57,8 @@ A CSV-based interview practice app built with semantic structure, keyboard inter
 
 - [Try the app](https://www.promotee.app/)
 - [Read the story on Medium](https://javascript.plainenglish.io/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
+
+**Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui / Supabase
 
 ---
 
