@@ -1,6 +1,6 @@
 # Hi, I'm Yoko — UX Architect & Full-stack Engineer 👋
 
-**User experience, system behaviour, data flows & implementation-ready specifications.**
+**User experience, system behaviour, data flows & implementation-ready specifications.**<br/>
 **Web application architecture and implementation with React, Next.js and TypeScript.**
 
 I design the user experience and the system behaviour behind it as one — and I also build and ship web applications.
