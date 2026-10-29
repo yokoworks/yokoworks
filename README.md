@@ -34,9 +34,35 @@ The implementation shows how validation rules, UI states, feedback, and recovery
 **Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI
 
 - [Live demo](https://ux-sample-dashboard.solastudio.studio/)
-- [Interactive UX specification](https://ux.solastudio.studio/spec-sample)
+- [Interactive UX specification](https://ux.solastudio.studio/shift-upload-sample)
 - [Figma design](https://www.figma.com/design/mLdmFMaurH8tFL0VwA6TuK/Linden-Bakery---Caf%C3%A9---Staff-Schedule-Dashboard?node-id=0-1)
 - [Source code](https://github.com/yokoworks/ux-sample-dashboard)
+
+---
+
+### Museum Mobile Guide — UX & API Specification (Concept)
+
+![Museum guide artwork detail](images/museum-guide.png)
+
+A screen and API specification for the mobile web guide of a fictional museum. Visitors open the guide via a QR code to find artworks, read or listen to content, and save works without creating an account.
+
+The design covers offline access to loaded content, saving and synchronisation, past visits that retain the display arrangements of their dates, and artwork images that can no longer be shown after their permitted period. Includes 44 Figma screens across seven sections and a draft seven-endpoint API contract.
+
+- [UX specification](https://ux.solastudio.studio/museum-guide-sample)
+- [Figma design](https://www.figma.com/design/f2oPWX0hIw9fsvD9GT3ubS/Northlight-Museum)
+
+---
+
+### Returns & Refunds — UX & API Specification (Concept)
+
+![Returns and refunds approval screen](images/returns-refunds.png)
+
+A screen and API specification for a fictional online retailer's internal returns and refunds workflow, shared by returns inspectors, support agents and team leads.
+
+The design covers role-specific queues, handovers, conditional approvals, delayed payment-provider results, and work left after a refund. Includes 11 Figma screen states, a 13-state return model and a draft five-endpoint API contract.
+
+- [UX specification](https://ux.solastudio.studio/returns-sample)
+- [Figma design](https://www.figma.com/design/DZUL2eR5fbadtdTwnLrrrY/Halden-Home-Refund-Dashboard?node-id=9-2&t=ZbKuHw7Ys8sGDGBl-1)
 
 ---
 
