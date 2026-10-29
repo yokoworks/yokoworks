@@ -1,4 +1,4 @@
-# Hi, I'm Yoko — UX Architect & Full-stack Engineer 👋
+# Hi, I'm Yoko — UX Architect & Software Engineer 👋
 
 **User experience, system behaviour, data flows & implementation-ready specifications.**<br/>
 **Web application architecture and implementation with React, Next.js and TypeScript.**
