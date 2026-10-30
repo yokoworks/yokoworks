@@ -14,7 +14,8 @@ When behaviour is difficult to judge on paper, I test it in a working prototype.
 ## Focus areas
 
 - **Product behaviour:** interactions, UI states, validation, error handling and recovery flows.
-- **Data flows and API agreements:** working with backend engineers to define data contracts and frontend/backend responsibilities.
+- **Interface design:** screens, components and UI states in Figma, designed together with the behaviour they need.
+- **Data flows and API agreements:** working with backend engineers to define data contracts and front-end/back-end responsibilities.
 - **Frontend architecture and implementation:** applications, reusable components and product interfaces in React, Next.js and TypeScript.
 - **Accessibility in the codebase:** semantic HTML, ARIA, keyboard interaction, focus behaviour and screen-reader support, with automated and manual checks.
 - **Specifications and implementation review:** documenting decisions and their reasoning, checking the working product against agreed behaviour, and resolving issues in code.
@@ -23,7 +24,7 @@ When behaviour is difficult to judge on paper, I test it in a working prototype.
 
 ## Main projects
 
-### UX Architecture to Code — Staff Schedule Dashboard
+### Daily Shift Upload — from UX Specification to Working Dashboard
 
 ![Staff schedule dashboard after a successful CSV upload](https://raw.githubusercontent.com/yokoworks/ux-sample-dashboard/main/public/images/mock-anim.gif)
 
@@ -66,7 +67,7 @@ The design covers role-specific queues, handovers, conditional approvals, delaye
 
 ---
 
-### Contrastly — Open-source Tailwind Color Contrast Checker
+### Contrastly — Open-source Tailwind Colour Contrast Checker
 
 An open-source Tailwind colour contrast checker for palettes, hex values, and semantic tokens, with keyboard interaction, reduced-motion support, and automated/manual accessibility checks.
 
@@ -93,14 +94,14 @@ A CSV-based interview practice app built with semantic structure, keyboard inter
 - [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)  
   Featured in Bootcamp / UX Collective
 
-- [The UX Lesson I Learned in a Quiet Tokyo Salon](https://medium.com/design-bootcamp/a-quiet-shift-how-emotional-insight-became-my-first-ux-lesson-d1a654bc7490?sharedUserId=yokoworks)  
+- [A Quiet Shift — How Emotional Insight Became My First UX Lesson](https://medium.com/design-bootcamp/a-quiet-shift-how-emotional-insight-became-my-first-ux-lesson-d1a654bc7490?sharedUserId=yokoworks)  
   Featured in Bootcamp / UX Collective and selected for Boost
 
 ---
 
 ## Links
 
-- [UX Architect Portfolio](https://ux.solastudio.studio/)
+- [UX Architecture Portfolio](https://ux.solastudio.studio/)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
 - [Sola Studio](https://solastudio.studio)
