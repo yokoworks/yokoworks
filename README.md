@@ -1,13 +1,13 @@
-# Hi, I'm Yoko — UX Architect & Software Engineer 👋
+# Hi, I'm Yoko — Product Designer specialising in UX Architecture 👋
 
 **User experience, system behaviour, data flows & implementation-ready specifications.**<br/>
 **Web application architecture and implementation with React, Next.js and TypeScript.**
 
-I design the user experience and the system behaviour behind it as one — and I also build and ship web applications.
+I design the user experience and the system behaviour behind it as one, and I also build and ship web applications. I work independently on a project basis: depending on what a project needs, I define how a product behaves, design its interface, or do both, with hands-on engineering support where needed.
 
 I work through how a product behaves in use: what happens after an action, where data goes, which side validates what, and how someone understands an error and recovers. I bring what users are trying to do together with business rules and technical constraints, work through the trade-offs with the people responsible, and turn what we agree into specifications engineers can build from.
 
-My hands-on engineering experience includes leading frontend architecture and implementation as the sole frontend engineer on a React and Next.js product, developing financial SaaS interfaces, and refactoring legacy game code.
+My hands-on engineering experience includes leading front-end architecture and implementation as the sole front-end engineer on a React and Next.js product, developing financial SaaS interfaces, and refactoring legacy game code.
 
 When behaviour is difficult to judge on paper, I test it in a working prototype. My engineering background lets me carry decisions through to working code, whether I am writing the implementation or reviewing it with a team.
 
