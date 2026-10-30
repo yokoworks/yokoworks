@@ -78,17 +78,6 @@ An open-source Tailwind colour contrast checker for palettes, hex values, and se
 
 ---
 
-### Promotee — Interview Flashcard App
-
-A CSV-based interview practice app built with semantic structure, keyboard interaction, focus behaviour, screen-reader support, and colour contrast considered from the start.
-
-- [Try the app](https://www.promotee.app/)
-- [Read the story on Medium](https://javascript.plainenglish.io/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
-
-**Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui
-
----
-
 ## Writing
 
 - [From Universal Design to Personalized Interfaces](https://medium.com/design-bootcamp/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b?sharedUserId=yokoworks)  
