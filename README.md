@@ -67,12 +67,11 @@ The design covers role-specific queues, handovers, conditional approvals, delaye
 
 ---
 
-### Contrastly — Open-source Tailwind Colour Contrast Checker
+### Contrastly — Colour Contrast Checker
 
-An open-source Tailwind colour contrast checker for palettes, hex values, and semantic tokens, with keyboard interaction, reduced-motion support, and automated/manual accessibility checks.
+An colour contrast checker for palettes, hex values, and semantic tokens, with keyboard interaction, reduced-motion support, and automated/manual accessibility checks.
 
 - [Open app](https://contrastly.solastudio.studio/)
-- [Source code](https://github.com/yokoworks/contrastly)
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui
 
