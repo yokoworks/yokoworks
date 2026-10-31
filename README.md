@@ -67,9 +67,9 @@ The design covers role-specific queues, handovers, conditional approvals, delaye
 
 ---
 
-### Contrastly — Colour Contrast Checker
+### Contrastly — Colour Contrast & Design Token Tool
 
-An colour contrast checker for palettes, hex values, and semantic tokens, with keyboard interaction, reduced-motion support, and automated/manual accessibility checks.
+A colour contrast tool supporting Tailwind CSS, Radix Colors, Open Color, shadcn/ui themes, and custom palettes. Preview colour combinations in real UI contexts, check WCAG contrast instantly, and import or export design tokens. Built with accessible keyboard interactions, screen reader feedback, and reduced-motion support. Tested with Playwright, axe-core, and VoiceOver.
 
 - [Open app](https://contrastly.solastudio.studio/)
 
