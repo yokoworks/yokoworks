@@ -69,7 +69,13 @@ The design covers role-specific queues, handovers, conditional approvals, delaye
 
 ### Contrastly — Colour Contrast & Design Token Tool
 
-A colour contrast tool supporting Tailwind CSS, Radix Colors, Open Color, shadcn/ui themes, and custom palettes. Preview colour combinations in real UI contexts, check WCAG contrast instantly, and import or export design tokens. Built with accessible keyboard interactions, screen reader feedback, and reduced-motion support. Tested with Playwright, axe-core, and VoiceOver.
+![Contrastly colour contrast tool](images/contrastly.gif)
+
+A colour contrast tool supporting Tailwind CSS, Radix Colors, Open Color, shadcn/ui themes, and custom palettes. Preview colour combinations in real UI contexts, check WCAG contrast instantly, and import or export design tokens.
+
+For a playful touch, Liquid Colour Transfer animates a drop of colour travelling from the palette into the preview, spreading and settling with a gentle wobble.
+
+Built with accessible keyboard interactions, screen reader feedback, and reduced-motion support. Tested with Playwright, axe-core, and VoiceOver.
 
 - [Open app](https://contrastly.solastudio.studio/)
 
