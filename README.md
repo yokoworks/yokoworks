@@ -50,6 +50,7 @@ A screen and API specification for the mobile web guide of a fictional museum. V
 The design covers offline access to loaded content, saving and synchronisation, past visits that retain the display arrangements of their dates, and artwork images that can no longer be shown after their permitted period. Includes 44 Figma screens across seven sections and a draft seven-endpoint API contract.
 
 - [UX specification](https://ux.solastudio.studio/museum-guide-sample)
+- [UI/UX design](https://uiux.solastudio.studio/#w-northlight-museum-guide)
 - [Figma design](https://www.figma.com/design/f2oPWX0hIw9fsvD9GT3ubS/Northlight-Museum)
 
 ---
@@ -78,6 +79,7 @@ For a playful touch, Liquid Colour Transfer animates a drop of colour travelling
 Built with accessible keyboard interactions, screen reader feedback, and reduced-motion support. Tested with Playwright, axe-core, and VoiceOver.
 
 - [Open app](https://contrastly.solastudio.studio/)
+- [UI/UX design](https://uiux.solastudio.studio/#w-contrastly)
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui
 
@@ -96,6 +98,7 @@ Built with accessible keyboard interactions, screen reader feedback, and reduced
 ## Links
 
 - [UX Architecture Portfolio](https://ux.solastudio.studio/)
+- [UI/UX Design Portfolio](https://uiux.solastudio.studio/)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
 - [Sola Studio](https://solastudio.studio)
