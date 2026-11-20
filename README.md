@@ -1,4 +1,4 @@
-# Hi, I'm Yoko — Product Designer specialising in UX Architecture 👋
+# Hi, I'm Yoko — UX & Product Architect 👋
 
 **User experience, system behaviour, data flows & implementation-ready specifications.**<br/>
 **Web application architecture and implementation with React, Next.js and TypeScript.**
