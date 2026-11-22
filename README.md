@@ -91,6 +91,6 @@ Built with accessible keyboard interactions, screen reader feedback and reduced-
 
 ## Links
 
-- [UX Architecture Portfolio](https://ux.solastudio.studio/)
+- [Portfolio](https://ux.solastudio.studio/)
 - [LinkedIn](https://www.linkedin.com/in/yokoworks/)
 - [Medium](https://medium.com/@yokoworks)
