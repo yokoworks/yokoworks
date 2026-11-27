@@ -1,8 +1,8 @@
-# Hi, I'm Yoko — Software Engineer, specialising in UX architecture 👋
+# Hi, I'm Yoko — Product Designer & Software Engineer 👋
 
-**I define how a product behaves, then build it with TypeScript, React and Next.js.**
+**I design how a product behaves, then build it with TypeScript, React and Next.js.**
 
-I'm a software engineer specialising in UX architecture. I work out how a product behaves in use: what happens after an action, where data goes, which side validates what, and how someone understands an error and recovers. Then I build it, from working prototypes to production code.
+I'm a product designer specialising in UX architecture and software engineering. I work out how a product behaves in use: what happens after an action, where data goes, which side validates what, and how someone understands an error and recovers. Then I build it, from working prototypes to production code.
 
 My engineering experience includes leading the architecture and implementation of a learning platform MVP in Next.js and TypeScript as the only engineer building its interfaces, developing financial SaaS products, and working on game code and internal developer tools. On a recent energy operations dashboard, part of my prototype code was reused in production.
 
@@ -11,10 +11,11 @@ I use AI coding tools in my everyday work and check what they suggest against th
 ## Focus areas
 
 - **Applications in TypeScript, React and Next.js:** features, reusable components and data handling, from prototype to production.
-- **Product behaviour:** interactions, UI states, validation, error handling and recovery flows.
+- **Product design and behaviour:** translating user needs and requirements into Figma designs, interactions, UI states, validation, error handling and recovery flows.
 - **Data flows and API agreements:** working with back-end engineers on data contracts and on which side is responsible for what.
 - **Accessibility in the codebase:** semantic HTML, ARIA, keyboard interaction, focus behaviour and screen-reader support, with automated and manual checks.
 - **Specifications and code review:** documenting decisions and their reasoning, and checking the working product against the agreed behaviour.
+
 
 ---
 
